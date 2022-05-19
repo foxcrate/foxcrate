@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Fawzy</h1>
-<h3 align="center">A passionate back-end developer from Egypt</h3>
+<h3 align="center">A passionate back-end developer from Cairo, Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foxcrate&label=Profile%20views&color=0e75b6&style=flat" alt="foxcrate" /> </p>
-
-- 💬 Ask me about **Node.JS**
+- 💬 Ask me about **Node.JS , PHP**
 
 - 📫 How to reach me **ahmedmustafa.pro19@gmail.com**
 
