@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa Fawzy</h1>
 <h3 align="center">A passionate back-end developer from Cairo, Egypt</h3>
 
-- 💬 Ask me about **Node.JS , PHP**
+- 💬 Ask me about **Node.JS , PHP , C**
 
 - 📫 How to reach me **ahmedmustafa.pro19@gmail.com**
 
