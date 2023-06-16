@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mustafa Fawzy</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Mustafa</h1>
 <h3 align="center">A passionate back-end developer from Cairo, Egypt</h3>
 
 - 💬 Ask me about **Node.JS , Ruby , PHP , C**
