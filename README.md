@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa</h1>
 <h3 align="center">A passionate software engineer from Cairo, Egypt</h3>
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+
 - 💬 Ask me about **Node.JS , Ruby , PHP , C**
 
 - 📫 How to reach me **ahmedmustafa.pro19@gmail.com**
