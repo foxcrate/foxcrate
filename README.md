@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa</h1>
 <h3 align="center">A passionate software engineer developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React & Python** - 💬 Ask me about **Node, Ruby,
-PHP** - 📫 How to reach me **ahmedmustafa.pro19@gmail.com** - 📄 Know about my
-experiences
+- 🌱 I’m currently learning **React & Python**
+- 💬 Ask me about **Node, Ruby,PHP**
+- 📫 How to reach me **ahmedmustafa.pro19@gmail.com**
+- 📄 Know about my experiences
 [https://docs.google.com/document/d/e/2PACX-1vQLxyhXBT6H-9hqOhfV9mTOQGSoO7Gjgb069Cjm3cOPLaZ9_S9v29w8PIVJwQtYqwACp0uWqrrhdIhW/pub](https://docs.google.com/document/d/e/2PACX-1vQLxyhXBT6H-9hqOhfV9mTOQGSoO7Gjgb069Cjm3cOPLaZ9_S9v29w8PIVJwQtYqwACp0uWqrrhdIhW/pub)
 
 <h3 align="left">Connect with me:</h3>
